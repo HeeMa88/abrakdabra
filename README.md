@@ -9,7 +9,7 @@ Full-Stack Developer | cybersecurity analyst | Open-Source Contributor
 
 [![GitHub followers](https://img.shields.io/github/followers/HeeMa88?style=social)](https://github.com/HeeMa88)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ibrahim-el-rayah)
-[![X](https://img.shields.io/twitter/follow/**Alsa7ir**?style=social)](https://x.com/heem88_88)
+[![X](https://img.shields.io/twitter/follow/Alsa7ir?style=social)](https://x.com/heem88_88)
 
 </div>
 
